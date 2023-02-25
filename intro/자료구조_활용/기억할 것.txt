@@ -1,0 +1,14 @@
+enumerate(list, tuple, string 등) -> index 를 같이 넣은 구조형으로 반환, 출력시 i,val 로 같이 출력
+
+data = enumerate([1,2,3])
+for i, value in data:
+~~
+
+python 은 자바랑 다르게 stack, list 둘다 그냥 같은데, 내가 stack 으로 사용하냐, list 로 사용하냐가 다른 것
+Queue 는 import deque 를 하면 이제 stack, queue, list 를 내가 어떤 것으로 사용하냐가 중요한 점
+(자바 처럼 따로 해당 자료구조를 선언하지 않는다)
+
+dict 는 (key, value ) 형태로 저장할 수 있으나, key 가 index 뿐만 아니라 다양한 형태의 값을 가질 수 있음
+출력시는
+    for key, value in p.items():
+p.items() 로 지정 안하면 key, value 를 못 꺼내온다.
