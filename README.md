@@ -1,3 +1,8 @@
+## 230305 Solved
+1. 1331 나이트투어 (S) - https://www.acmicpc.net/problem/1331
+2. 1343 폴리오미노 (S) - https://www.acmicpc.net/problem/1343
+
+
 ## 230226 Solved
 1. 1094 막대기 (S) - https://www.acmicpc.net/problem/1094
 2. 1181 크로아티아 알파벳 (S) - https://www.acmicpc.net/problem/1181
