@@ -3,6 +3,7 @@ from collections import deque
 
 sys.stdin = open("input_15.txt")
 
+
 def judge_available(position):
     i = position[0]
     j = position[1]
@@ -20,21 +21,13 @@ dj = [0, 1, 0, -1]
 
 for _ in range(T):
     m, n = map(int, input().split())
-    start = time.time()
+
+    # start = time.time()
 
     box = []
     days = 0
     dq = deque()
     needs_to_rot = 0
-
-    # for i in range(n):
-    #     tmp = list(map(int, input().split()))
-    #     for j in range(len(tmp)):
-    #         if tmp[j] == 1:
-    #             dq.append((i, j))
-    #         elif tmp[j] == 0:
-    #             needs_to_rot += 1
-    #     box.append(tmp)
 
     box = [list(map(int, input().split())) for _ in range(n)]
 
@@ -48,26 +41,26 @@ for _ in range(T):
 
     bfs_depth = 0
     leg_size = len(dq)
+
     while dq:
         cur_pos = dq.popleft()
         leg_size -= 1
-        # 익게 한다
-        if box[cur_pos[0]][cur_pos[1]] == 0:
-            box[cur_pos[0]][cur_pos[1]] = 1
-            needs_to_rot -= 1
 
         for k in range(4):
             mi = cur_pos[0] + di[k]
             mj = cur_pos[1] + dj[k]
             if judge_available((mi, mj)):
+                # 들어갔을 때 익은 상태로 보내야 한다. 왜냐하면 넣은거 자체가 이미 돌릴 것이란 뜻이고, 이 때 익히지 않으면 다른 인접 노드에서 넣을 수 있기 때문임
                 dq.append((mi, mj))
+                box[mi][mj] = 1
+                needs_to_rot -= 1
 
         # 다 판별했을 때, leg_size == 0 일 경우, queue 에 있는 것들은 다음 다리들 뿐이다
         if leg_size == 0:
             leg_size = len(dq)
             bfs_depth += 1
 
-    print("time : ", time.time() - start)
+    # print("time : ", time.time() - start)
 
     # 마지막 탈출할 때도 +1 을 하므로, -1 해준다.
     if needs_to_rot == 0:
