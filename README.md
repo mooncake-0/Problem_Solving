@@ -1,3 +1,8 @@
+## 230312 Solved
+1. 2468 안전구역 (S) - https://www.acmicpc.net/problem/2468
+2. 7576 토마토 (G) - https://www.acmicpc.net/problem/7576 
+
+
 ## 230305 Solved
 1. 1331 나이트투어 (S) - https://www.acmicpc.net/problem/1331
 2. 1343 폴리오미노 (S) - https://www.acmicpc.net/problem/1343
