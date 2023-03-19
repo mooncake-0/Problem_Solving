@@ -1,3 +1,8 @@
+## 230319 Solved
+1. 5397 키로거 (S) - https://www.acmicpc.net/problem/5379
+2. 7795 먹을 것인가 먹힐 것인가 (S) - https://www.acmicpc.net/problem/7795
+
+
 ## 230312 Solved
 1. 2468 안전구역 (S) - https://www.acmicpc.net/problem/2468
 2. 7576 토마토 (G) - https://www.acmicpc.net/problem/7576 
