@@ -1,5 +1,6 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
-
+## 230402 Solved
+1. 2961 PERKET (S) - https://www.acmicpc.net/problem/2961 
 
 ## 230326 Solved
 1. 8933 MCS (S) - https://www.acmicpc.net/problem/8933
