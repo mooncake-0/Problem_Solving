@@ -1,10 +1,14 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 ## 230402 Solved
-1. 2961 PERKET (S) - https://www.acmicpc.net/problem/2961 
+1. 2961 PERKET (S2) - https://www.acmicpc.net/problem/2961
+2. 11724 연결요소개수 (S2) - https://www.acmicpc.net/problem/11724
+3. 2583 영역구하기 (S1) - https://www.acmicpc.net/problem/2583
+4. 9318 위성사진P (P4)- https://www.acmicpc.net/problem/9318
+
 
 ## 230326 Solved
-1. 8933 MCS (S) - https://www.acmicpc.net/problem/8933
-2. 10840 구간 성분 (G) - https://www.acmicpc.net/problem/10840
+1. 8933 MCS (S3) - https://www.acmicpc.net/problem/8933
+2. 10840 구간 성분 (G1) - https://www.acmicpc.net/problem/10840
 
 
 ## 230319 Solved
@@ -28,24 +32,19 @@
 
 
 ## 230219 Solved
-1. 1316 그룹 단어 체커 (S) - https://www.acmicpc.net/problem/1010
-2. 2941 크로아티아 알파벳 (S) - https://www.acmicpc.net/problem/1064
+1. 1010 다리 놓기 (S) - https://www.acmicpc.net/problem/1010
+2. 1064 평행사변형 (S) - https://www.acmicpc.net/problem/1064
 
 
 ## 230212 Solved
 1. 1316 그룹 단어 체커 (S) - https://www.acmicpc.net/problem/1316
 2. 2941 크로아티아 알파벳 (S) - https://www.acmicpc.net/problem/2941
 
-
-
-
-
+<br/><br/>
 # 2. INTRO (인프런 - 파이썬 알고리즘 문제 풀이) 
 - 강의 사이트 : https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/dashboard
 
-
-
-
+<br/><br/>
 # 3. JUNGOL (삼성 SW Certi PRO 대비 - JUNGOL 문제집)
 
 - 기출문제 : 15, 32, 47, 48, 49, 50
