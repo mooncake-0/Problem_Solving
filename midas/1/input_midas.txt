@@ -1,3 +1,0 @@
-["hello i am david","hello kail","hi tina"]
-[["W","F"]]
-"hello"

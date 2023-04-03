@@ -1,9 +1,15 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
+
+## 230409 Solved
+1. 1697 숨바꼭질 (S1) - https://www.acmicpc.net/problem/1697
+2. 16509 장군 (G5) - https://www.acmicpc.net/problem/16509
+3. 2589 보물섬 (G5) - https://www.acmicpc.net/problem/2589
+
+
 ## 230402 Solved
 1. 2961 PERKET (S2) - https://www.acmicpc.net/problem/2961
 2. 11724 연결요소개수 (S2) - https://www.acmicpc.net/problem/11724
 3. 2583 영역구하기 (S1) - https://www.acmicpc.net/problem/2583
-4. 9318 위성사진P (P4)- https://www.acmicpc.net/problem/9318
 
 
 ## 230326 Solved

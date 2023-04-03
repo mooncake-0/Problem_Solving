@@ -1,0 +1,28 @@
+1. List
+- a[i] : O(1)
+- a in LIST : O(N)
+- a.insert(i) : O(N) > 넣고 남은 애들을 다 당겨야 하기 때문에, wc O(N) 으로 본다
+- a.remove(x) : 가장 먼저 발견되는 x 를 제거 : O(N) > 제거하고 남은 애들 다 당겨야 함
+
+- 리스트 조인 : (str).join(strB) --> O(len(strB))
+- 리스트화하기 : list([SEQUENCE 객체 (tuple, queue 등)]) --> O(len(SEQ객체))
+- 리스트 자르기 : list[a:b] --> O(b-a) (길면 시간복잡도 소모있음)
+
+
+
+2. Dict (Map)
+- a[b] : O(1)
+- b in DICT : O(1)
+
+
+
+
+3. Set
+
+
+
+4. Priority Queue
+
+
+
+5. Queue (참고로 인덱싱 가능)
