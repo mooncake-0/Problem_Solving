@@ -3,6 +3,7 @@
 - a in LIST : O(N)
 - a.insert(i) : O(N) > 넣고 남은 애들을 다 당겨야 하기 때문에, wc O(N) 으로 본다
 - a.remove(x) : 가장 먼저 발견되는 x 를 제거 : O(N) > 제거하고 남은 애들 다 당겨야 함
+- a.sort(x) : O(NlogN) 을 보장
 
 - 리스트 조인 : (str).join(strB) --> O(len(strB))
 - 리스트화하기 : list([SEQUENCE 객체 (tuple, queue 등)]) --> O(len(SEQ객체))

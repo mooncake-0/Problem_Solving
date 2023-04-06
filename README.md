@@ -4,7 +4,8 @@
 1. 1697 숨바꼭질 (S1) - https://www.acmicpc.net/problem/1697
 2. 16509 장군 (G5) - https://www.acmicpc.net/problem/16509
 3. 2589 보물섬 (G5) - https://www.acmicpc.net/problem/2589
-
+4. 2412 암벽등반 (G4) - https://www.acmicpc.net/problem/2412
+5. 16236 아기상어 (G3) - https://www.acmicpc.net/problem/16236
 
 ## 230402 Solved
 1. 2961 PERKET (S2) - https://www.acmicpc.net/problem/2961
