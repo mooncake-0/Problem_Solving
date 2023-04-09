@@ -6,16 +6,20 @@
 3. 2589 보물섬 (G5) - https://www.acmicpc.net/problem/2589
 4. 2412 암벽등반 (G4) - https://www.acmicpc.net/problem/2412
 5. 16236 아기상어 (G3) - https://www.acmicpc.net/problem/16236
+6. 19236 청소년상어 (G2) - https://www.acmicpc.net/problem/19236
+7. 1047 울타리 (P5) - https://www.acmicpc.net/problem/1047 (실패했던문제)
+8. 19237 어른상어 (G2) - https://www.acmicpc.net/problem/19237
+
 
 ## 230402 Solved
 1. 2961 PERKET (S2) - https://www.acmicpc.net/problem/2961
-2. 11724 연결요소개수 (S2) - https://www.acmicpc.net/problem/11724
+2. 11724 연결요소개수 (S2) - https://www.acmicpc.net/problem/11724 (실패했던문제) 
 3. 2583 영역구하기 (S1) - https://www.acmicpc.net/problem/2583
 
 
 ## 230326 Solved
 1. 8933 MCS (S3) - https://www.acmicpc.net/problem/8933
-2. 10840 구간 성분 (G1) - https://www.acmicpc.net/problem/10840
+2. 10840 구간 성분 (G1) - https://www.acmicpc.net/problem/10840 (실패했던문제)
 
 
 ## 230319 Solved
