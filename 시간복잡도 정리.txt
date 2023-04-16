@@ -5,9 +5,13 @@
 - a.remove(x) : 가장 먼저 발견되는 x 를 제거 : O(N) > 제거하고 남은 애들 다 당겨야 함
 - a.sort(x) : O(NlogN) 을 보장
 
+
 - 리스트 조인 : (str).join(strB) --> O(len(strB))
 - 리스트화하기 : list([SEQUENCE 객체 (tuple, queue 등)]) --> O(len(SEQ객체))
 - 리스트 자르기 : list[a:b] --> O(b-a) (길면 시간복잡도 소모있음)
+- 리스트 복사 : .copy(list) > O(N) (리스트 사이즈만큼)
+- 리스트 DEEP COPY : 딥 커피는 굉장히 오래 걸리는 로직으로, 피하는게 좋다. 써야 한다면 slicing list[:] 이 나음 (둘의 속도 비교에 대한 정리 참고, JUNGOL 37번)
+
 
 
 
@@ -19,10 +23,14 @@
 
 
 3. Set
-
+- add O(1)
+- x in SET : O(1)
 
 
 4. Priority Queue
+- heappush O(logN)
+- heappop  O(logN)
+- heapify  O(N) : 중요 >> 같은 리스트 heap 만들 때도 일일이 heappush 하는게 더 나음
 
 
 

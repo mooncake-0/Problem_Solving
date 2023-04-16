@@ -1,5 +1,12 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230413 Solved
+1. 13706 제곱근 (S4) - https://www.acmicpc.net/problem/13706
+2. 2805 나무자르기 (S2) - https://www.acmicpc.net/problem/2805
+3. 2613 숫자구슬 (G2) - https://www.acmicpc.net/problem/2613 (TC 지옥..)
+4. 3487 Copying Book (P5) - https://www.acmicpc.net/problem/3487 (다시 풀어보기)
+
+
 ## 230409 Solved
 1. 1697 숨바꼭질 (S1) - https://www.acmicpc.net/problem/1697
 2. 16509 장군 (G5) - https://www.acmicpc.net/problem/16509

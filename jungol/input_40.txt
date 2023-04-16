@@ -1,0 +1,14 @@
+2 3
+hwang lee son
+11
+EVAL 100 son 2
+EVAL 100 lee 4
+EVAL 200 son 2
+SUM 1
+AVG 1
+EVAL 100 son 1
+SUM 0
+SUM 1
+CLEAR 100
+AVG 0
+AVG 1
