@@ -1,5 +1,12 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230430 Solved
+1. 1717 집합의 표현 (G5) - https://www.acmicpc.net/problem/1717
+2. 20056 마법사상어와 파이어볼 (G4) - https://www.acmicpc.net/problem/20056
+3. 20057 마법사상어와 토네이도 (G3) - https://www.acmicpc.net/problem/20057
+4. 2579 계단오르기 (S3) - https://www.acmicpc.net/problem/2579
+
+
 ## 230413 Solved
 1. 13706 제곱근 (S4) - https://www.acmicpc.net/problem/13706
 2. 2805 나무자르기 (S2) - https://www.acmicpc.net/problem/2805
