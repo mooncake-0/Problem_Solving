@@ -1,5 +1,10 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230507 Solved
+1. 11053 가장 긴 증가하는 부분 수열(S2) - https://www.acmicpc.net/problem/11053
+2. 1091 카드섞기 (G4) - https://www.acmicpc.net/problem/1091
+
+
 ## 230430 Solved
 1. 1717 집합의 표현 (G5) - https://www.acmicpc.net/problem/1717
 2. 20056 마법사상어와 파이어볼 (G4) - https://www.acmicpc.net/problem/20056
