@@ -1,5 +1,11 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230514 Solved
+1. 1715 카드 정렬하기 (G4) - https:////www.acmicpc.net/problem/1715
+2. 1541 잃어버린 괄호 (S2) - https:////www.acmicpc.net/problem/1541
+3. 1926 그림 (S1) - https:////www.acmicpc.net/problem/1926
+
+
 ## 230507 Solved
 1. 11053 가장 긴 증가하는 부분 수열(S2) - https://www.acmicpc.net/problem/11053
 2. 1091 카드섞기 (G4) - https://www.acmicpc.net/problem/1091
