@@ -1,9 +1,17 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230521 Solved
+1. 2178 미로 탐색 (S1) - https://www.acmicpc.net/problem/2178
+2. 4179 불 (G4) - https://www.acmicpc.net/problem/4179
+3. 1012 유기농배추 (S2) - https://www.acmicpc.net/problem/1012
+4. 10026 적록색약 (G5) - https://www.acmicpc.net/problem/10026
+5. 7569 토마토2 (G5) - https://www.acmicpc.net/problem/7569
+
+
 ## 230514 Solved
-1. 1715 카드 정렬하기 (G4) - https:////www.acmicpc.net/problem/1715
-2. 1541 잃어버린 괄호 (S2) - https:////www.acmicpc.net/problem/1541
-3. 1926 그림 (S1) - https:////www.acmicpc.net/problem/1926
+1. 1715 카드 정렬하기 (G4) - https://www.acmicpc.net/problem/1715
+2. 1541 잃어버린 괄호 (S2) - https://www.acmicpc.net/problem/1541
+3. 1926 그림 (S1) - https://www.acmicpc.net/problem/1926
 
 
 ## 230507 Solved
