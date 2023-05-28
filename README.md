@@ -1,5 +1,17 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230528 Solved
+1. 2667 단지번호붙이기 (S1) - https://www.acmicpc.net/problem/2667
+2. 5014 스타트링크 (S1) - https://www.acmicpc.net/problem/5014
+3. 7562 나이트이동 (S1) - https://www.acmicpc.net/problem/7562
+4. 5427 불2 (G4) - https://www.acmicpc.net/problem/5427
+5. 2146 다리만들기 (G3) - https://www.acmicpc.net/problem/2146
+6. 2206 벽부수고이동하기 (G3) - https://www.acmicpc.net/problem/2206
+7. 9466 텀프로젝트 (G3) - https://www.acmicpc.net/problem/9466
+8. 2573 빙산 (G4) - https://www.acmicpc.net/problem/2573
+9. 6593 상범빌딩 (G5) - https://www.acmicpc.net/problem/6593
+
+
 ## 230521 Solved
 1. 2178 미로 탐색 (S1) - https://www.acmicpc.net/problem/2178
 2. 4179 불 (G4) - https://www.acmicpc.net/problem/4179
