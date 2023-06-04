@@ -1,5 +1,11 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230604 Solved
+1. 1600 말이되고픈원숭이 (G3) - https://www.acmicpc.net/problem/1600
+2. 13913 숨바꼭질4 (G4) - https://www.acmicpc.net/problem/13913
+
+
+
 ## 230528 Solved
 1. 2667 단지번호붙이기 (S1) - https://www.acmicpc.net/problem/2667
 2. 5014 스타트링크 (S1) - https://www.acmicpc.net/problem/5014
