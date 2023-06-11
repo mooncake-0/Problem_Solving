@@ -1,9 +1,13 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230611 Solved
+1. 1753 최단경로 (G4) - https://www.acmicpc.net/problem/1753
+2. 5972 택배배송 (G4) - https://www.acmicpc.net/problem/5972
+
+
 ## 230604 Solved
 1. 1600 말이되고픈원숭이 (G3) - https://www.acmicpc.net/problem/1600
 2. 13913 숨바꼭질4 (G4) - https://www.acmicpc.net/problem/13913
-
 
 
 ## 230528 Solved
