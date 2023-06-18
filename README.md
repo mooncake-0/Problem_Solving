@@ -1,5 +1,12 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230618 Solved
+1. 1238 파티 (G3) - https://www.acmicpc.net/problem/1238
+2. 4485 녹색옷입은애가젤다지? (G4) - https://www.acmicpc.net/problem/4485
+3. 10473 인간대포 (G2) - https://www.acmicpc.net/problem/10473
+4. 14442 벽부수고이동하기2 (G3) - https://www.acmicpc.net/problem/14442
+
+
 ## 230611 Solved
 1. 1753 최단경로 (G4) - https://www.acmicpc.net/problem/1753
 2. 5972 택배배송 (G4) - https://www.acmicpc.net/problem/5972
