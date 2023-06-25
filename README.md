@@ -1,5 +1,10 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230625 Solved
+1. 16933 벽부수고이동하기 (G1) - https://www.acmicpc.net/problem/16933
+2. 1916 최소비용구하기 (G5) - https://www.acmicpc.net/problem/1916
+
+
 ## 230618 Solved
 1. 1238 파티 (G3) - https://www.acmicpc.net/problem/1238
 2. 4485 녹색옷입은애가젤다지? (G4) - https://www.acmicpc.net/problem/4485
