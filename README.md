@@ -1,6 +1,15 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
-##230715 Solved
+##230723 Solved
+1. 14499 주사위 굴리기 (G4) - https://www.acmicpc.net/problem/14499
+2. 16985 Maze (G2) - https://www.acmicpc.net/problem/16985
+3. 14503 로봇청소기 (G5) - https://www.acmicpc.net/problem/14503
+4. 3190 뱀 (G4) - https://www.acmicpc.net/problem/3190
+5. 14500 테트로미노 (G4) - https://www.acmicpc.net/problem/14500
+6. 10773 제로 (S4) - https://www.acmicpc.net/problem/10773
+
+
+##230716 Solved
 1. 15686 치킨배달 (G5) - https://www.acmicpc.net/problem/15686
 2. 11559 Puyo Puyo (G4) - https://www.acmicpc.net/problem/11559
 3. 14891 톱니바퀴 (G5) - https://www.acmicpc.net/problem/14891
