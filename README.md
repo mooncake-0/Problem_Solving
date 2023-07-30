@@ -1,5 +1,14 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230730 Solved
+1. 14888 연산자 끼워넣기 (S1) - https://www.acmicpc.net/problem/14888
+2. 14889 스타트와 링크 (S2) - https://www.acmicpc.net/problem/14889
+3. 2493 탑 (G5) - https://www.acmicpc.net/problem/2493
+4. 13459 구슬탈출1 (G1) - https://www.acmicpc.net/problem/13459
+5. 13460 구슬탈출2 (G1) - https://www.acmicpc.net/problem/13460
+6. 14502 연구소 (G4) - https://www.acmicpc.net/problem/14502
+
+
 ## 230723 Solved
 1. 14499 주사위 굴리기 (G4) - https://www.acmicpc.net/problem/14499
 2. 16985 Maze (G2) - https://www.acmicpc.net/problem/16985
