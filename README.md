@@ -1,5 +1,9 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230806 Solved
+1. 15684 사다리 조작 (G3) - https://www.acmicpc.net/problem/15684
+2. 1182 부분 수열의 합 (S2) - https://www.acmicpc.net/problem/1182
+
 ## 230730 Solved
 1. 14888 연산자 끼워넣기 (S1) - https://www.acmicpc.net/problem/14888
 2. 14889 스타트와 링크 (S2) - https://www.acmicpc.net/problem/14889
