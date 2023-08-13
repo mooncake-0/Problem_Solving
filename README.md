@@ -1,5 +1,11 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230813 Solved
+1. 1931 회의실 배정 (S1) - https://www.acmicpc.net/problem/1931
+2. 2217 로프 (S4) - https://www.acmicpc.net/problem/2217
+3. 11047 동전 0 (S4) - https://www.acmicpc.net/problem/11047
+
+
 ## 230806 Solved
 1. 15684 사다리 조작 (G3) - https://www.acmicpc.net/problem/15684
 2. 1182 부분 수열의 합 (S2) - https://www.acmicpc.net/problem/1182
