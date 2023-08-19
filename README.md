@@ -1,5 +1,10 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230820 Solved
+1. 1026 보물 (S4) - https://www.acmicpc.net/problem/1026
+2. 11399 ATM (S4) - https://www.acmicpc.net/problem/11399
+
+
 ## 230813 Solved
 1. 1931 회의실 배정 (S1) - https://www.acmicpc.net/problem/1931
 2. 2217 로프 (S4) - https://www.acmicpc.net/problem/2217
