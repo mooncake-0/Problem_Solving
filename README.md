@@ -1,5 +1,10 @@
 # 1. BJ (백준 문제풀이 - 알고리즘 문제풀이 스터디)
 
+## 230827 Solved
+1. 7785 회사에 있는 사람 (S5) - https://www.acmicpc.net/problem/7785
+2. 1620 나는야 포켓몬 마스터 이다솜 (S4) - https://www.acmicpc.net/problem/1620
+
+
 ## 230820 Solved
 1. 1026 보물 (S4) - https://www.acmicpc.net/problem/1026
 2. 11399 ATM (S4) - https://www.acmicpc.net/problem/11399
