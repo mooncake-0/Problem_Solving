@@ -11,6 +11,9 @@ from collections import deque
 # 어디서 줄일수 있을지 살펴보다가, 사실 무기를 얻었다면 더이상 BFS를 할 필요가 없는 것 같음 (is_super 는 사용될시에는 항상 False 이므로 고려 불필요)
 ## 결국 반례를 확인했지만, elapsed>T 이기 전에 dq 이 비어질 수도 있다 (벽 뚫을 수 있는 경우를 안넣는경우)
 ## 그렇다면 이런 경우가 언제인지 생각해보면 된다.
+
+# 애초에 모든 경우에 수가 0 이상 <T 이하였으면 됐다.. elasped_when_super 이딴걸 왜 했지.. 바보였다
+
 def solution(N, M, T, castle):
     di, dj = [1, 0, -1, 0], [0, -1, 0, 1]
     visited = [(0, 0)]
