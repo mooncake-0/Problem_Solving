@@ -59,7 +59,7 @@ def pro1():
     # 가장 많은 페이지 한권
     lt = max(book_pages) - 1  # 범위 안에 들여놓기 위함
     rt = sum(book_pages) + 1  # 한 명이 전부 담당]
-    # 기본적인 이분탐색 Set
+    # 기본적인 3_이분탐색 Set
     while lt + 1 < rt:
         mid = (lt + rt) // 2
         if check(mid):  # 줄여보자
