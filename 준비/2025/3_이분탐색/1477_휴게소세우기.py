@@ -2,7 +2,7 @@ import sys
 
 
 # 1T -> 항상 이것보다 작아야 한다 했더니 계속 놓음..
-def is_each_not_exceed_tg_1t(tg, pos, stations):
+def is_each_not_exceed_tg(tg, pos, stations):
     if len(stations) > 1:
         print(tg, pos, stations)
         for j in range(len(stations) - 1):  # 자신이 어떤 구간인지도 알긴 해야 함
@@ -26,26 +26,48 @@ def is_each_not_exceed_tg_1t(tg, pos, stations):
 ## M 개 이상 놨으면 tg 좀 더 키워야 한다 (M 개를 놔야 하기 때문)
 
 ## 풀다가 드는 생각인데.. 위치가 그닥 안중요한 것 같다. (가장 큰 녀석을 계속 잘라주면서 몇까지 가능한지만 알아내면..)
-def find_max(list):
-    idx = 0
-    for i in range(len(list)):
-
+def find_max_with_index(cnt, lst):
+    if not lst:
+        return None, None  # 빈 리스트 처리
+    max_idx = 0
+    max_val = lst[0]
+    for i in range(1, len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+            max_idx = i
+    return max_idx, max_val
 
 
 def solution2(N, M, L, stations):
-    stations_dist = []
-    for i in range(len(stations) - 1):  # i ~ i+1
-        stations_dist.append(stations[i + 1] - stations[i])
+    stations.sort()
     st = 0  # 휴게소 위치는 중복되지 않는다
     end = L + 1  # 양 끝에 설치되어도 길이는 L
     while st + 1 < end:
         mid = (st + end) // 2  # 이 길이가 최소이다
+        cnt = 0
+
+        stations_dist = []
+        for i in range(len(stations) - 1):  # i ~ i+1
+            stations_dist.append(stations[i + 1] - stations[i])
+
         while True:
-            if
+            idx, cur_max_val = find_max_with_index(cnt, stations_dist)
+            print(cur_max_val, mid, stations_dist)
+            if cur_max_val <= mid:  # 현재 최대값이 mid 보다 작아야 한다
+                break
+            # 돌아야 한다면, 둘을 반 자르고 다시 넣는다 (그 자리에 들어선것)
+            stations_dist.pop(idx)
+            val1 = cur_max_val // 2
+            val2 = cur_max_val - val1
+            stations_dist.append(val1)
+            stations_dist.append(val2)
+            cnt += 1
 
-
-
-
+        if cnt < M:
+            end = mid
+        else:
+            st = mid
+    return st
 
 # N,M,L -> 현재 갯수, 더 짓는 갯수, 도로 길이
 # stations -> 현재 설치됨
@@ -79,4 +101,4 @@ input = sys.stdin.readline
 
 N, M, L = map(int, input().split())
 stations = list(map(int, input().split()))
-print(solution(N, M, L, stations))
+print(solution2(N, M, L, stations))
