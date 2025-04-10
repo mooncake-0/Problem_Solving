@@ -62,8 +62,8 @@ def solution2(N, M, L, stations):
             stations_dist.append(val1)
             stations_dist.append(val2)
             cnt += 1
-
-        if cnt < M:
+        print(cnt, st, mid, end)
+        if cnt <= M:
             end = mid
         else:
             st = mid
